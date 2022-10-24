@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Levi</h1>
-<h3 align="center">A passionate Pentester From Australia</h3>
+<h3 align="center">A Passionate Pentester From Australia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levitheskriptkiddie&label=Profile%20views&color=0e75b6&style=flat" alt="levitheskriptkiddie" /> </p>
 
