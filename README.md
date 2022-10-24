@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Levi</h1>
-<h3 align="center">A passionate Pentester From Austrialia</h3>
+<h3 align="center">A passionate Pentester From Australia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levitheskriptkiddie&label=Profile%20views&color=0e75b6&style=flat" alt="levitheskriptkiddie" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [NovaBotnet](https://github.com/LeviTheSkriptKiddie/NovaBotnet)
 
-- 🌱 I’m currently learning **C#, Python and trying to learn C#**
+- 🌱 I’m currently learning **C#, Python and trying to learn C++**
 
 - 👯 I’m looking to collaborate on [NovaBotnet](https://github.com/LeviTheSkriptKiddie/NovaBotnet)
 
