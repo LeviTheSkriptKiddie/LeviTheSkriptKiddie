@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://dev.to/levitheskriptkiddie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="levitheskriptkiddie" height="30" width="40" /></a>
 <a href="https://twitter.com/levibolz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="levibolz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uccc3mayjyvtqn6rh4lp_x7w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uccc3mayjyvtqn6rh4lp_x7w" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCCc3mayJyVTQN6Rh4lP_X7w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uccc3mayjyvtqn6rh4lp_x7w" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
