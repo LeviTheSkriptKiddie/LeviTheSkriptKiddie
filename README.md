@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/levibolz" target="blank"><img src="https://img.shields.io/twitter/follow/levibolz?logo=twitter&style=for-the-badge" alt="levibolz" /></a> </p>
 
-- 🔭 I’m currently working on [NovaBotnet](https://github.com/LeviTheSkriptKiddie/NovaBotnet)
+- 🔭 I’m currently working on NovaRat
 
 - 🌱 I’m currently learning **C#, Python and trying to learn C++**
 
